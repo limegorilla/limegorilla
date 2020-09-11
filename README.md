@@ -12,7 +12,8 @@ Known around the web as;
 
 Thanks to Sam for them last two.
 
-This next line is being included because it makes me laugh. Why does it make me laugh? No clue.
+This next line is being included because it makes me laugh. Why does it make me laugh? No clue. (holy shit my profile rhymes!)
+
 **limegorilla/limegorilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
