@@ -16,6 +16,7 @@ This next line is being included because it makes me laugh. Why does it make me 
 
 **limegorilla/limegorilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+See! I'm ✨ _special_ ✨
 <!--
 Here are some ideas to get you started:
 
