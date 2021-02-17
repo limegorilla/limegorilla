@@ -1,8 +1,14 @@
 # Hi there 👋
-I'm Liam - A software dev for The Shore Group. And myself.
-At the moment I am currently trying to build a Spotify API client to be able to visualise your Spotify data - including trends, and then using AI/ML to make some kick-ass playlists. I say trying. So far I have some visual mock-ups.
-It'll get there.
-It'll be written with a JS-based backend, with a web frontend in React, and then Swift for iOS, iPadOS, macOS & watchOS (maybe)
+I'm Liam - A student software developer.
+In my time I have made a 3D sidescrolling game in Unreal Engine 4, tried to make my website over at [limegorilla.co.uk](https://limegorilla.co.uk) and I am currently learning Swift 5 to make an intentionally basic notes app for iOS/iPadOS & macOS.
+You can [read my resume here.](https://github.com/limegorilla/resume) It's XeTeX based so it's fully customisable! I mean so is any document, but this requires you learn a syntax.
+
+<!--
+CURRENTLY THIS HASN'T HAPPENED, SO UNTIL IT ACTUALLY HAPPENS I'M JUST KEEPING IT COMMENTED OUT.
+Hi by the way. Feel like a hacker yet :)
+=====
+I have also managed the development of a Client Portal, an electronic registration system, and moved a company over to a managed MDM solution.
+-->
 
 Known around the web as;
 - Liam
@@ -12,14 +18,10 @@ Known around the web as;
 
 Thanks to Sam for them last two.
 
-This next line is being included because it makes me laugh. Why does it make me laugh? No clue. (holy shit my profile rhymes!)
-
-**limegorilla/limegorilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-See! I'm ✨ _special_ ✨
 <!--
+Commented out from GitHub
+======
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
