@@ -1,7 +1,7 @@
 # Hi there 👋
-I'm Liam - A student software developer.
-In my time I have made a 3D sidescrolling game in Unreal Engine 4, tried to make my website over at [limegorilla.co.uk](https://limegorilla.co.uk) and I am currently learning Swift 5 to make an intentionally basic notes app for iOS/iPadOS & macOS.
-You can [read my resume here.](https://github.com/limegorilla/resume) It's XeTeX based so it's fully customisable! I mean so is any document, but this requires you learn a syntax.
+I'm Liam - A student software developer. I am a British national, but I lived in España🇪🇸 for seven years and can speak fluent Spanish :)
+In my time I have made a 3D sidescrolling game in Unreal Engine 4, tried to make my website over at [limegorilla.co.uk](https://limegorilla.co.uk) and I am currently learning Swift to make an intentionally basic notes app for iOS/iPadOS & macOS.
+You can [read my resume here.](https://github.com/limegorilla/resume) It's XeTeX based so it's fully customisable! I mean so is any document, but this requires you learn a syntax. I find that needlessly geeky.
 
 <!--
 CURRENTLY THIS HASN'T HAPPENED, SO UNTIL IT ACTUALLY HAPPENS I'M JUST KEEPING IT COMMENTED OUT.
@@ -19,7 +19,7 @@ Known around the web as;
 Thanks to Sam for them last two.
 
 <!--
-Commented out from GitHub
+Commented out - from original README from GitHub
 ======
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
