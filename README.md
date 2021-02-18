@@ -1,7 +1,11 @@
 # Hi there 👋
 I'm Liam - A student software developer. I am a British national, but I lived in España🇪🇸 for seven years and can speak fluent Spanish :)
+
 In my time I have made a 3D sidescrolling game in Unreal Engine 4, tried to make my website over at [limegorilla.co.uk](https://limegorilla.co.uk) and I am currently learning Swift to make an intentionally basic notes app for iOS/iPadOS & macOS.
+<!--
+Edited out 18/02/2021 until resume has been updated
 You can [read my resume here.](https://github.com/limegorilla/resume) It's XeTeX based so it's fully customisable! I mean so is any document, but this requires you learn a syntax. I find that needlessly geeky.
+-->
 
 <!--
 CURRENTLY THIS HASN'T HAPPENED, SO UNTIL IT ACTUALLY HAPPENS I'M JUST KEEPING IT COMMENTED OUT.
